@@ -2,6 +2,6 @@
 ###Attendee
 * Taylor
 * Ho-An
-* Silver
+* Silva
 * MC
 * Yang
