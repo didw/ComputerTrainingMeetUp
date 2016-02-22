@@ -1,0 +1,2 @@
+- 2016.02.21
+-- get maximum product from double array [code](getMaxProduct.cpp)
